@@ -1,6 +1,7 @@
-# Machine-Learning-Disease-Prediction-And-Drug-Recommendation
-Get the full course https://www.udemy.com/course/machine-learning-disease-prediction-and-drug-recommendation/?instructorPreviewMode=guest
-
+# Machine-Learning-Disease-Prediction
+Use Python==3.7
+install Xampp
+and run apache and sql
 Run Anacond prompt as administrator, then install the following packages using commands below
 
 pip install django==3.3

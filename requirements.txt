@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+joblib
+Django
+Pillow
+Scikit-learn==0.20.4
+mysqlclient==1.4.2.post1
